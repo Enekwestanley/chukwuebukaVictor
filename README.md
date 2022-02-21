@@ -1,89 +1,33 @@
-### Hi there 👋
+## Hi there I'm Victor!👋
+I'm a Full-Stack Software developer interested in new technologies and looking for new challenges.
+## About Me 📄
+I love resolving problems, coding challenges, and all related to the IT field. I'm currently learning new languages and technologies like Ruby, Rails, React, Redux. I'm always open to new opportunities.
+### My Skills 📖
+<div>
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src="https://badgen.net/badge/icon/git?icon=git&label">
+</div>
 
-![](https://komarev.com/ghpvc/?username=Micky373)
+## My Stats :bar_chart:
+<div align=center>
+ <img height=205 src="https://github-readme-stats.vercel.app/api?username=chukwuebukaVictor&show_icons=true&theme=city_lights&count_private=true&include_all_commits=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chukwuebukaVictor&theme=city_lights&langs_count=3" />
+</div>
 
-<img src="https://img.shields.io/badge/Michael%20Tamirie-is%20Available for a Remote Work-greenyellow" />
+## Contact Me :mailbox_with_no_mail:
+<div>
+  <a href="https://www.linkedin.com/in/chukwuebuka-ozoede-46616a219"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chukwuebuka.victor.ozoede@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/OzoedeVictor"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
 
-<h1>Hello, I'm Michael Tamirie <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
+<!--
+**chukwuebukaVictor/chukwuebukaVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## About me
+Here are some ideas to get you started:
 
-<br>
-
-<p><img align="right" src="./animation_500_kxa883sd.gif" alt="Michael Tamirie" width = "400px" height = "400px"  /></p>
-
-``` JavaScript
-const getToKnowMicky = {
-    fullName: "Michael Tamirie Andualem",
-    origin: "Ethiopia 🇪🇹",
-    jobStatus: "Student at Microverse",
-    maritalStatus: "Single",
-    hobbies: ["Coding","Reading","Watching football","Playing football games","Solving puzzles"],
-    techLanguages:["Python","Css","JavaScript","HTML"],
-    age: 24,
-    isWorkingNow: false,
-    educationLevel: {
-        bachlorsDegree: "Electromechanical Engineering",
-        isCompleted: true,
-    },
-    socialMedias: ["LinkedIn","Telegram", "WhatsApp", "Twitter"],
-    codingEnviroment: "Github",
-    nowLearning: ["Wireless networking at CISCO","Full stack web developement at Microverse","Machine learning and robotics at Coursera"],
-    lookingForNewOpportunities: true    
-}
-
- ```
- <br>
- 
- ## My Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Micky373&count_private=true&theme=buefy&showicons=true)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky373&langs_count=5&theme=buefy)
-
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Micky373&)
-
-<br />
-<br />
-
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/Micky373)
-
-[![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=Micky373&theme=dracula)](https://github.com/Micky373/github-readme-activity-graph)
-
-## My Certifications and Badges :arrow_down:
-
-- [Microverse HTML and CSS certificate](https://www.credential.net/1243efa2-6872-4030-bb30-a98da4a72798#gs.pk847n)
-- [Cisco Introduction to Network badge](https://www.credly.com/badges/769bfab6-93d3-410d-a042-514bf7de5a6c/public_url)
-- [Cisco Switching Routing and Wireless Essentials badge ](https://www.credly.com/badges/9e941554-fab1-4910-8229-ab1ee8543d96/public_url)
-- [Coursera Python for everybody specialization certificate ](https://coursera.org/verify/specialization/SANRMEWUPYGH) 
-- [Coursera ML with Python certifcation badge ](https://www.credly.com/badges/14597204-09ab-46a2-a321-8fe9aeedc4a1/public_url)
-
-## Languages and Tools:  
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <span></span><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a><a href="https://www.cisco.com/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://cdn-icons-png.flaticon.com/512/882/882730.png"
-      alt="cisco packet tracer" width="40" height="40" /></a></p>
-
-<br/>
-
-____
-
-<h3 align="center"> You can reach me at 📫 </h3>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/michael-tamirie-288a331ab/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
-</p>
-
-**Thanks for Stopping by and visiting!! 😊**
-
-<p align="center">
-
-⭐️ [Michael_Tamirie](https://github.com/Micky373)
-
-</p>
-
+- 🔭 I’m currently working on ...
