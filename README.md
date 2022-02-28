@@ -1,5 +1,5 @@
 ## Hi there I'm Victor!👋
-I'm a Full-stack Software developer interested in new technologies and looking for new challenges.
+I'm a Full-stack software developer interested in new technologies and looking for new challenges.
 ## About Me 📄
 I love improving myself on all IT related field. I'm currently learning new languages and technologies like React and Nodejs. I'm always open to new opportunities.
 ### My Skills 📖
