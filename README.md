@@ -10,6 +10,7 @@ I love improving myself on all IT related field. I'm currently learning new lang
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB?style=flat&logo=node.js&logoColor=ffffff">
   <img src="https://badgen.net/badge/icon/git?icon=git&label">
 </div>
 
